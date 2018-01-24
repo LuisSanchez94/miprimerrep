@@ -1,0 +1,8 @@
+h1{
+	font-weight: bold;
+}
+
+body div:first-child{
+	background-color: #303030;
+}
+
